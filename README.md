@@ -1,8 +1,4 @@
 # campus-bot
-Here’s a cleaned, professional version with minimal, purposeful formatting and no unnecessary emojis:
-
----
-
 # CampusBot – Autonomous Smart Delivery Robot
 
 ## Overview
