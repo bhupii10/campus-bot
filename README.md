@@ -138,7 +138,7 @@ State-based control system:
 
 ## Applications
 
-* College campuses
+* College campuse
 * Office automation
 * Hospitals (sample delivery)
 * Warehouses
@@ -150,4 +150,8 @@ State-based control system:
 CampusBot demonstrates how simple hardware combined with structured control logic can create an effective automation system.
 
 It is practical, competition-ready, and scalable for real-world applications.
+
+
+
+<img width="669" height="606" alt="Campu bot CAD design" src="https://github.com/user-attachments/assets/f94c5e52-6803-499e-8e30-5376d4e73653" />
 
