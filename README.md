@@ -4,6 +4,9 @@
 # Cad Design - 
 https://gmail5401024.autodesk360.com/g/shares/SH90d2dQT28d5b6028118f4a8320cf38ed7f
 
+<img width="669" height="606" alt="Campu bot CAD design" src="https://github.com/user-attachments/assets/890c22ac-4f1b-4e62-9d38-bd7546bd1d7c" />
+
+
 ## Overview
 
 CampusBot is a line-following autonomous delivery robot designed for smart campuses.
@@ -150,8 +153,4 @@ State-based control system:
 CampusBot demonstrates how simple hardware combined with structured control logic can create an effective automation system.
 
 It is practical, competition-ready, and scalable for real-world applications.
-
-
-
-<img width="669" height="606" alt="Campu bot CAD design" src="https://github.com/user-attachments/assets/f94c5e52-6803-499e-8e30-5376d4e73653" />
 
